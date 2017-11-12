@@ -1,0 +1,28 @@
+{
+  "name": "hackerone-dark",
+  "version": "0.0.1",
+  "description": "Hackerone Dark Skin",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sijad/hackerone-dark.git"
+  },
+  "keywords": [
+    "Stylish",
+    "hackerone",
+    "dark"
+  ],
+  "author": "sijad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sijad/hackerone-dark/issues"
+  },
+  "homepage": "https://github.com/sijad/hackerone-dark#readme",
+  "dependencies": {
+    "css": "^2.2.1"
+  }
+}
