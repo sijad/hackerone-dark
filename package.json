@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/sijad/hackerone-dark#readme",
   "dependencies": {
-    "css": "^2.2.1"
+    "css": "^2.2.4"
   }
 }
