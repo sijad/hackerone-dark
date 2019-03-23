@@ -133,6 +133,14 @@ box-shadow: 0 0 20px rgba(100, 100, 100, 0.25) !important;
 text-shadow: 0 0.5px 0 #c0c0c0 !important;
 }
 
+.year-in-review__list-item,.daisy-tooltip--light .daisy-tooltip__content,.daisy-tooltip--light .daisy-tooltip__arrow-shadow,.text-field,.daisy-banner,.card,.Select-menu-outer,.Select-control,.daisy-dropdown.is-open .Select-control,.daisy-avatar,.daisy-textarea,.link-tile {
+border: 1px solid #444 !important;
+}
+
+.year-in-review__username,.icon__background--light-grey {
+background-color: #444 !important;
+}
+
 .year-in-review__username--green:hover,.year-in-review__username--green:link,.year-in-review__username--green:active,.year-in-review__username--green:visited,.daisy-link--white,.daisy-link--white:visited,.daisy-link--white:hover,.daisy-link--white:active,.team_mailru .type-selector__suggestion--checked,.team_icq .profile-header__link,.team_icq .profile-header__link:visited,.team_icq .profile-header__link:hover,.team_icq .profile-header__link:active,.team_sony_playstation_network .type-selector__suggestion--checked {
 color: #151515  !important;
 }
@@ -305,6 +313,10 @@ border-color: #330000 !important;
 box-shadow: inset 0 0 0 2px #151515 !important;
 }
 
+.hacktivity-item + .hacktivity-item,.daisy-table__row + .daisy-table__row,.daisy-list--separator li + li,.daisy-textarea__footer-message,.daisy-textarea__footer-tab {
+border-top: 1px solid #444 !important;
+}
+
 .hacktivity-item--privileged .hacktivity-item__undisclosed-title {
 color: #330000 !important;
 }
@@ -443,6 +455,34 @@ border-color: #444 transparent transparent !important;
 
 .Select-option.is-disabled {
 color: #333 !important;
+}
+
+.icon__glyph--light-grey {
+color: #444 !important;
+}
+
+.text-field,.daisy-textarea {
+box-shadow: inset 0 1px 3px 0 #444 !important;
+}
+
+.daisy-banner--grey {
+border-left-color: #444 !important;
+}
+
+.grid__row--has-separator > .grid__column + .grid__column,.daisy-list--horizontal.daisy-list--separator li + li {
+border-left: 1px solid #444 !important;
+}
+
+.Select-option,.daisy-sub-header,.daisy-separator {
+border-bottom: 1px solid #444 !important;
+}
+
+.daisy-tag--grey,.daisy-timeline__line,.daisy-alert--grey {
+background: #444 !important;
+}
+
+.daisy-textarea__footer-tab,ul.triage-dashboard-views li {
+border-right: 1px solid #444 !important;
 }
 
 .highlight .cp,.highlight .cs,.highlight .gh,.highlight .bp {
