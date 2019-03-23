@@ -36,6 +36,12 @@ const colorsMap = {
   "rgba(255, 255, 255, 0.75)": "rgba(10, 10, 10, 0.75)"
 };
 
+const propertyColorsMap = {
+  color: {
+    "#ffffff": "#a5a5a5"
+  }
+};
+
 const manualCss = `
 .loading-indicator__inner {
   border-color: rgb(33, 107, 165) transparent transparent rgb(33, 107, 165) !important;
@@ -165,9 +171,8 @@ function processRules({ declarations, rules, type, selectors }) {
     .map(({ value, property }) => {
       // make sure it's not comment.
       if (value && colorRegex.test(value)) {
-        const newValue = value.replace(
-          new RegExp(colorRegex, "gi"),
-          processColor
+        const newValue = value.replace(new RegExp(colorRegex, "gi"), c =>
+          processColor(c, property)
         );
         if (newValue !== value) {
           return {
@@ -188,10 +193,12 @@ function processRules({ declarations, rules, type, selectors }) {
   }
 }
 
-function processColor(color) {
+function processColor(color, property) {
   if (color) {
     const cleaned = cleanupColor(color);
-    if (colorsMap[cleaned]) {
+    if (propertyColorsMap[property] && propertyColorsMap[property][cleaned]) {
+      return propertyColorsMap[property][cleaned];
+    } else if (colorsMap[cleaned]) {
       return colorsMap[cleaned];
     }
   }
