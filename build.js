@@ -1,5 +1,6 @@
 const fs = require("fs");
 const parseCss = require("css").parse;
+const { version } = require("./package.json");
 
 //const colorRegex = /#(?:[0-9a-fA-F]{3}){1,2}/g;
 const colorRegex = /(#([0-9a-f]{3}){1,2}|(rgba|hsla)\(\d{1,3}%?(,\s?\d{1,3}%?){2},\s?(1|0?\.\d+)\)|(rgb|hsl)\(\d{1,3}%?(,\s?\d{1,3}%?\)){2})/gi;
@@ -70,8 +71,15 @@ fs.readdir("css-files", (err, files) => {
   }
 
   if (!err && files && files.length) {
-    let output = '@-moz-document url-prefix("https://hackerone.com") {';
-    output += manualCss;
+    let output = `/* ==UserStyle==
+@name        HackerOne Dark
+@namespace   https://github.com/sijad/hackerone-dark
+@version     ${version}
+@license     MIT
+==/UserStyle== */
+
+@-moz-document url-prefix("https://hackerone.com") {
+${manualCss}`;
 
     files
       .filter(file => file.indexOf(".") !== 0)
@@ -81,7 +89,7 @@ fs.readdir("css-files", (err, files) => {
 
     output += "}";
 
-    fs.writeFileSync("hackerone-dark.css", output);
+    fs.writeFileSync("hackerone-dark.user.css", output);
   }
 });
 

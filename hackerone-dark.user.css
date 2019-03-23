@@ -1,4 +1,12 @@
+/* ==UserStyle==
+@name        HackerOne Dark
+@namespace   https://github.com/sijad/hackerone-dark
+@version     0.0.1
+@license     MIT
+==/UserStyle== */
+
 @-moz-document url-prefix("https://hackerone.com") {
+
 .loading-indicator__inner {
   border-color: rgb(33, 107, 165) transparent transparent rgb(33, 107, 165) !important;
 }
