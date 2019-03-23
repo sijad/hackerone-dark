@@ -85,6 +85,10 @@ color: #a5a5a5 !important;
 background-color: #444 !important;
 }
 
+.settings-title-container--daisy,.daisy-text,.daisy-link,.daisy-h1,.daisy-h2,.daisy-h3,.daisy-h4,.daisy-h5,.daisy-h6,.year-in-review__bubble,.daisy-text,.daisy-h1,.daisy-h2,.daisy-h3,.daisy-h4,.daisy-h5,.daisy-h6,.daisy-button,.daisy-modal__content,.daisy-helper-text,.text-field__prefix,.text-field__postfix,.text-field__input,.daisy-banner,.card,.card__subheading,.daisy-table,.daisy-dropdown,.Select-input input,.Select-control--selected,.daisy-sub-header,.daisy-tag,.daisy-tag--yellow,.daisy-textarea,.daisy-textarea__field,.daisy-textarea__footer-tab,.daisy-textarea__footer-tab--active:hover,.switch__wrapper,.daisy-timeline,.daisy-alert,.link-tile {
+color: #999 !important;
+}
+
 body,.pricing-questions,.pricing-table__row:hover .pricing-table__column,.superman-container--soft-grey,.superman-testimonials__item--soft-grey,.superman-table__row:hover .superman-table__column,.banner--dod-banner,.inline-banner,.content-footer-wrapper,.dropdown-description-wrapper,.dropdown-item:hover,.dropdown-item.hover,.grid-filler,.input-tag,.input--superman,.modal-footer,.popover__footer,.typeahead-suggestion-selected,.inbox-item.is-active,.bulk-actions-report-heading:hover,.subject-selector--open .subject-selector__current-item:hover,.subject-selector__item--selected,.subject-selector__item:hover,.timelime-automated-response,.genius,.markdown-footer,.invite-team-member-footer,.notification:hover,.notification:active,.notification:active:visited,.notifications__footer,.notifications__grouped-by-heading,.topbar-signed-out .topbar-sign-up-link:hover,.programs__invitation-message-wrapper,.attachments-list,.attachment-uploaded,.report-heading__toggle:hover,.common-response:hover,.common-responses-input-wrapper,.triggers-disabled-label,.integration__jira,.weakness-selector__search,.cluster__item--active,.type-selector__cluster:hover,.type-selector__cluster--selected,.type-selector__suggestion--selected,.type-selector__suggestion:hover,.type-selector-list-item:hover,.is-active .vertical-wizard-caption-heading,.leaderboard__item:hover,.leaderboard__column--active,.leaderboard-listing-item:nth-child(even),.leaderboard-podium-rank,.leaderboard-podium-user,.table thead,.markdownable table thead,.severity-indicator,.daisy-button.daisy-button--secondary:active,.daisy-button--danger.daisy-button--secondary:active,.daisy-button--facebook.daisy-button--secondary:active,.component-placeholder__text,.component-placeholder__substate-indicator,.daisy-textarea__footer-tab:hover {
 background: #181818 !important;
 }
@@ -103,6 +107,10 @@ border: 1px solid #444 !important;
 
 .narrow-container--muted-border,.subject-selector__item--selected,.subject-selector__item:hover,.subject-selector__item--current-user,.vertical-menu__link:hover,.vertical-menu__link--active {
 border-color: #333 !important;
+}
+
+.blog__footnote,.superman-hero .meta-text a,.superman-hero .meta-text a:hover,.superman-hero .meta-text a:link,.superman-hero .meta-text a:visited,.superman-footer__link,.superman-footer__link:visited,.superman-footer__link:hover,.superman-footer__link:active,.content-footer__note,.dropdown-item-link-icon,.dropdown-button-prefix,.input-tag__remove,.input-tag__remove:visited,.input-tag__remove:hover,.input-tag__remove:active,.icon--reference-id,.modal-close-button,.modal-close-button:visited,.modal-close-button:hover,.modal-close-button:active,.page-title__sub-title,.xkcd-source,.separator--text,.text-muted,.user-item__meta,.meta-text,.timeline-container-subject,.timeline-timestamp-link,.timeline-timestamp-link:visited,.timeline-timestamp-link:hover,.timeline-timestamp-link:active,.genius__close-icon,.genius__close-icon:visited,.genius__close-icon:hover,.genius__close-icon:active,.avatar-upload-description,.help-block,.helper-text,.markdown-footer,.notification-time-ago,.notifications__grouped-by-heading,.topbar .topbar-dropdown-toggle,.topbar .topbar-dropdown-toggle:visited,.topbar .topbar-dropdown-toggle:active,.topbar-signed-out .topbar-sign-up-explanation,.vertical-menu__title,.profile-stats-meta,.team_blizzard .modal-close-button,.team_blizzard .modal-close-button:visited,.team_blizzard .modal-close-button:hover,.team_blizzard .modal-close-button:active,.team_mailru .modal-close-button,.team_mailru .modal-close-button:visited,.team_mailru .modal-close-button:hover,.team_mailru .modal-close-button:active,.team_sony_playstation_network .modal-close-button,.team_sony_playstation_network .modal-close-button:visited,.team_sony_playstation_network .modal-close-button:hover,.team_sony_playstation_network .modal-close-button:active,.program__meta-data,.attachment-progress,.attachment-filesize,.comment-preview-head,.report__social-share-item--prefix,.report-meta--collapsed,.report-meta__table-cell:first-child,.report-action-picker__privacy-indicator,.report-action-picker__plus-sign,.report-heading__edit-link,.report-heading__cancel-link,.report-heading__cancel-link:visited,.report-heading__cancel-link:hover,.report-heading__cancel-link:active,.reports__sub-heading,.dashboard-legend__item,.triggers-disabled-label,.cluster__heading,.payout-method-details,.payout-method-benefit-icon-default,.list-selector__arrow,.list-selector__meta,.remember-me,.leaderboard__column--heading,.leaderboard-rank,.leaderboard-user__bio,.leaderboard-listing-meta,.leaderboard-podium-user-meta,.internal-activity-icon,.loading-indicator__caption,.nav-tab__link--active,.nav-tab__link--active:visited,.pagination__results,.reputation-change-badge {
+color: #aaa !important;
 }
 
 .pricing-questions,.pricing-plan,.pricing-table__section-separator,.type-selector__active-weakness,.type-selector__active-asset {
@@ -157,6 +165,10 @@ text-shadow: 0 0.5px 0 #999 !important;
 border: 1px solid #444 !important;
 }
 
+.year-in-review a,.year-in-review a:visited,.year-in-review a:active,.daisy-text--blue:visited,.daisy-text--blue:active,.daisy-text--blue:hover,.icon__glyph--blue,.daisy-tooltip--light .daisy-tooltip__content a,.icon-link .icon__glyph:hover,.daisy-textarea__footer-tab:hover {
+color: #2D68A8 !important;
+}
+
 .year-in-review__username,.icon__background--light-grey {
 background-color: #444 !important;
 }
@@ -175,6 +187,10 @@ border-color: #555 !important;
 
 .button {
 text-shadow: 0 1px 0 #333 !important;
+}
+
+.button--link:hover,a:hover,.link:hover,.sub-header__menu-link.active,.sub-header__menu-item--label.active,.trigger-rule-link:hover,.list-selector__item:hover .list-selector__name,.list-selector__item:hover .list-selector__icon {
+color: #216ba5 !important;
 }
 
 .content-footer-wrapper,.modal-footer,.timeline-indicator-dot::after,.markdown-footer,.invite-team-member-footer,.notifications__footer,.type-selector-no-type,.table--rounded tfoot td {
@@ -237,6 +253,10 @@ color: #444 !important;
 background: #440000 !important;
 }
 
+.label--blue,.daisy-tooltip__content,.daisy-tooltip__arrow,.daisy-tag--blue {
+background: #2D68A8 !important;
+}
+
 .markdownable code {
 background-color: #181818 !important;
 }
@@ -251,6 +271,10 @@ background: #444 !important;
 
 .popover__footer,.separated-and-muted,.is-separated-and-muted ~ .is-separated-and-muted,.inbox-list__wrapper,.bugs-list-pagination,.bulk-actions-report-heading:first-child,.subject-selector__item--selected + .subject-selector__item,.subject-selector__item:hover + .subject-selector__item,.genius__footer,.topbar-signed-out .topbar-navigation-item,.profile-stats__row + .profile-stats__row,.report-meta,.report-heading__social-share .report__social-share,.reports__davr-signup,.common-response,.cluster__item + .cluster__item,.list-selector__item,.mini-profile__meta-divider,.type-selector__weaknesses,.type-selector__assets,.leaderboard__item,.leaderboard-listing-item + .leaderboard-listing-item,.leaderboard-podium-user,.table td,.markdownable table td,.table th,.markdownable table th {
 border-top: 1px solid #333 !important;
+}
+
+.popover--new-feature .popover__content,.popover--new-feature .popover__arrow-shadow {
+border-color: #444 !important;
 }
 
 .popover--tutorial .popover__content,.popover--tutorial .popover__arrow {
@@ -301,6 +325,10 @@ border-bottom-color: #444 !important;
 border-bottom: 1px solid #444 !important;
 }
 
+.daisy-text--blue,.daisy-link,.daisy-link:visited,.daisy-link:active {
+color: #2D68A8  !important;
+}
+
 .internal,.report-meta-data--internal {
 border: 1px solid #330000 !important;
 }
@@ -347,6 +375,10 @@ border-right: 1px solid #444 !important;
 
 .markdown-textarea-container--is-internal .markdown-tab.is-active,.markdown-textarea-container--is-internal .markdown-tab.is-active::before,.markdown-textarea-container--is-internal .markdown-textarea,.badge--confidential,.badge--disabled-submissions {
 background-color: #440000 !important;
+}
+
+.feature-toggle-bar-handle-arrow {
+border-bottom-color: #aaa !important;
 }
 
 .notification-indicator {
@@ -417,6 +449,10 @@ fill: #222 !important;
 background-color: #999 !important;
 }
 
+.mini-profile__stats,.mini-profile__stats-dupe,.Select.is-disabled > .Select-control,.text-field--disabled,.Select-control:hover,.disabled .Select,.daisy-textarea__field.disabled {
+background-color: #252525 !important;
+}
+
 .type-selector-column,.table--rounded td + td {
 border-left: 1px solid #444 !important;
 }
@@ -481,12 +517,28 @@ border-color: #555 transparent transparent !important;
 color: #444 !important;
 }
 
+.icon__background--blue {
+background-color: #2D68A8 !important;
+}
+
 .icon__glyph--light-grey {
 color: #444 !important;
 }
 
+.daisy-tooltip__content {
+border: 1px solid #2D68A8 !important;
+}
+
+.daisy-button.daisy-button--secondary:hover,.daisy-button--danger.daisy-button--secondary:hover,.daisy-button--facebook.daisy-button--secondary:hover,.daisy-table__head,.daisy-dropdown.is-open .Select-control,.Select-option:hover,.Select-option.is-focused,.daisy-textarea__footer-message,.daisy-textarea__footer-tab {
+background: #252525 !important;
+}
+
 .text-field,.daisy-textarea {
 box-shadow: inset 0 1px 3px 0 #444 !important;
+}
+
+.text-field--has-focus,.Select.is-focused:not(.is-open) > .Select-control,.Select.is-searchable.is-focused .Select-control,.daisy-textarea--focused,.link-tile:hover {
+border-color: #2D68A8 !important;
 }
 
 .daisy-banner--grey {
