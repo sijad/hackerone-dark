@@ -42,39 +42,39 @@ color: #999 !important;
 }
 
 .react-datepicker__navigation--previous,.react-datepicker__portal .react-datepicker__navigation--previous {
-border-right-color: #444 !important;
+border-right-color: #333 !important;
 }
 
 .react-datepicker__navigation--previous:hover,.react-datepicker__portal .react-datepicker__navigation--previous:hover {
-border-right-color: #444 !important;
+border-right-color: #333 !important;
 }
 
 .react-datepicker__navigation--next,.react-datepicker__portal .react-datepicker__navigation--next {
-border-left-color: #444 !important;
+border-left-color: #333 !important;
 }
 
 .react-datepicker__navigation--next:hover,.react-datepicker__portal .react-datepicker__navigation--next:hover {
-border-left-color: #444 !important;
+border-left-color: #333 !important;
 }
 
 .react-datepicker__navigation--years-previous,.react-datepicker__year-read-view--down-arrow,.react-datepicker__month-read-view--down-arrow,.react-datepicker__month-year-read-view--down-arrow {
-border-top-color: #444 !important;
+border-top-color: #333 !important;
 }
 
 .react-datepicker__navigation--years-previous:hover,.react-datepicker__year-read-view:hover .react-datepicker__year-read-view--down-arrow,.react-datepicker__year-read-view:hover .react-datepicker__month-read-view--down-arrow,.react-datepicker__month-read-view:hover .react-datepicker__year-read-view--down-arrow,.react-datepicker__month-read-view:hover .react-datepicker__month-read-view--down-arrow,.react-datepicker__month-year-read-view:hover .react-datepicker__year-read-view--down-arrow,.react-datepicker__month-year-read-view:hover .react-datepicker__month-read-view--down-arrow,.react-datepicker__year-option:hover .react-datepicker__navigation--years-previous,.react-datepicker__month-option:hover .react-datepicker__navigation--years-previous,.react-datepicker__month-year-option:hover .react-datepicker__navigation--years-previous {
-border-top-color: #444 !important;
+border-top-color: #333 !important;
 }
 
 .react-datepicker__navigation--years-upcoming {
-border-bottom-color: #444 !important;
+border-bottom-color: #333 !important;
 }
 
 .react-datepicker__navigation--years-upcoming:hover,.react-datepicker__year-option:hover .react-datepicker__navigation--years-upcoming,.react-datepicker__month-option:hover .react-datepicker__navigation--years-upcoming,.react-datepicker__month-year-option:hover .react-datepicker__navigation--years-upcoming {
-border-bottom-color: #444 !important;
+border-bottom-color: #333 !important;
 }
 
 .react-datepicker__time-container .react-datepicker__time .react-datepicker__time-box ul.react-datepicker__time-list li.react-datepicker__time-list-item--disabled,.react-datepicker__week-number,.react-datepicker__day--disabled,.attachment-remove,.icon-share-facebook,.icon-share-facebook:visited,.icon-share-twitter,.icon-share-twitter:visited,.icon-share-google-plus,.icon-share-google-plus:visited,.icon-share-linkedin,.icon-share-linkedin:visited,.icon-share-hacker-news,.icon-share-hacker-news:visited,.icon-share-reddit,.icon-share-reddit:visited,.icon-share-rss,.icon-share-rss:visited,.icon-share-hackerone,.icon-share-hackerone:visited {
-color: #444 !important;
+color: #333 !important;
 }
 
 .react-datepicker__day--highlighted,.react-datepicker__day--selected,.react-datepicker__day--in-selecting-range,.react-datepicker__day--in-range,.react-datepicker__day--keyboard-selected,.react-datepicker__close-icon::after,.masthead__close-icon,.masthead__play-icon,.pricing__button--blue,.pricing__button--green,.pricing__button--blue:link,.pricing__button--blue:visited,.pricing__button--green:link,.pricing__button--green:visited,.pricing-plan__indicator,.promo-banner,.superman-hero,.superman-hero a,.superman-hero a:visited,.superman-button,.superman-button:visited,.superman-button:hover,.superman-button:active,.superman-circle--translucent,.superman-title--white .superman-title__content,.superman-testimonials,.landing__lead-form-link a,.landing__lead-form-link a:visited,.year-in-review__hero,.year-in-review__list-indicator,.year-in-review__username--green,.button--danger,.button--danger,.button--danger:visited,.button--danger:hover,.button--danger:active,.button--danger--active,.button--success,.button--success,.button--success:visited,.button--success:hover,.button--success:active,.button--success--active,.button--blue,.button--blue,.button--blue:visited,.button--blue:hover,.button--blue:active,.button--blue--active,.label--green,.label--red,.label--yellow,.label--blue,.tooltip__container,.notification-indicator.unread,.topbar--triage .topbar-anc,.topbar--triage .topbar-navigation-item .topbar__dropdown-link,.topbar .topbar-logo,.topbar .topbar-logo:visited,.topbar .topbar-logo:hover,.topbar .topbar-logo:active,.topbar .topbar-navigation-link,.topbar .topbar-navigation-link:visited,.topbar .topbar-navigation-link:hover,.topbar .topbar-navigation-link:active,.topbar .topbar-navigation-link.active,.topbar .topbar-toggle,.topbar-signed-out .topbar-toggle,.topbar-signed-out .topbar-subnav-wrapper .topbar-subnav .topbar-subnav-item,.profile-header__link,.profile-header__link:visited,.profile-header__link:hover,.profile-header__link:active,.profile-header__title,.profile-header__bio,.profile-header__program-type,.profile-header__information-item,.team_blizzard .topbar .topbar-logo,.team_blizzard .icon-hamburger,.team_blizzard .icon-cross,.team_blizzard .notifications-menu-wrapper .dropdown-menu-header,.team_blizzard .topbar-sign-up-link:hover,.team_blizzard .topbar-sign-up-link:hover .topbar-sign-up-explanation,.team_blizzard .sub-header__menu-link.active,.team_blizzard .sub-header__menu-link.active:visited,.team_blizzard .sub-header__menu-link.active:hover,.team_blizzard .sub-header__menu-link.active:active,.team_blizzard .button,.team_blizzard .button.button--success,.team_blizzard .button:visited,.team_blizzard .button.button--success:visited,.team_blizzard .button:hover,.team_blizzard .button.button--success:hover,.team_blizzard .button:active,.team_blizzard .button.button--success:active,.team_blizzard .button--active,.team_blizzard .button.button--success--active,.team_blizzard .separator--text,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:visited,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:hover,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:active,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-meta,.team_blizzard .leaderboard-podium-rank,.team_blizzard .type-selector__search .input-tag,.team_blizzard .type-selector__suggestion--checked,.team_blizzard .type-selector__suggestion--checked:visited,.team_blizzard .type-selector__suggestion--checked:hover,.team_blizzard .type-selector__suggestion--checked:active,.team_blizzard .input,.team_blizzard .select,.team_blizzard .report-action-picker__input,.team_blizzard .markdown-panes textarea,.team_blizzard .input:focus,.team_blizzard .select:focus,.team_blizzard .report-action-picker__input:focus,.team_blizzard .markdown-panes textarea:focus,.team_blizzard .markdown-textarea-container,.team_blizzard .leaderboard-listing-item.current-user .leaderboard-listing-user,.team_blizzard .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user,.team_blizzard .leaderboard-listing-item.current-user .leaderboard-listing-user:visited,.team_blizzard .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:visited,.team_blizzard .leaderboard-listing-item.current-user .leaderboard-listing-user:hover,.team_blizzard .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:hover,.team_blizzard .leaderboard-listing-item.current-user .leaderboard-listing-user:active,.team_blizzard .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:active,.team_mailru .tooltip__container,.team_mailru .topbar .topbar-logo,.team_mailru .topbar .topbar-navigation-link,.team_mailru .topbar .topbar-navigation-link:visited,.team_mailru .topbar .topbar-navigation-link:hover,.team_mailru .topbar .topbar-navigation-link:active,.team_mailru .icon-hamburger,.team_mailru .icon-cross,.team_mailru .topbar-sign-up-link:hover,.team_mailru .topbar-sign-up-link:hover .topbar-sign-up-explanation,.team_mailru .topbar-sign-up-explanation,.team_mailru .banner,.team_mailru .profile-header__bio,.team_mailru .sub-header__menu-link,.team_mailru .sub-header__menu-link:visited,.team_mailru .sub-header__menu-link:hover,.team_mailru .sub-header__menu-link:active,.team_mailru .sub-header__menu-link.active,.team_mailru .sub-header__menu-link.active:visited,.team_mailru .sub-header__menu-link.active:hover,.team_mailru .sub-header__menu-link.active:active,.team_mailru .button,.team_mailru .button.button--success,.team_mailru .button:visited,.team_mailru .button.button--success:visited,.team_mailru .button:hover,.team_mailru .button.button--success:hover,.team_mailru .button:active,.team_mailru .button.button--success:active,.team_mailru .markdownable code,.team_mailru .pre-wrap code,.team_mailru .topbar-dropdown-toggle,.team_mailru .topbar-dropdown-toggle:visited,.team_mailru .topbar-dropdown-toggle:hover,.team_mailru .topbar-dropdown-toggle:active,.team_mailru .leaderboard-podium-user-meta,.team_mailru .leaderboard-podium-user-name,.team_mailru .timeline-datetime,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:visited,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:hover,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:active,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-meta,.team_mailru .leaderboard-podium-rank,.team_mailru .type-selector__search .input-tag,.team_mailru .type-selector__suggestion--checked:hover,.team_mailru .type-selector__suggestion:hover,.team_mailru .wizard-step-indicator,.team_mailru .leaderboard-listing-item.current-user .leaderboard-listing-user,.team_mailru .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user,.team_mailru .leaderboard-listing-item.current-user .leaderboard-listing-user:visited,.team_mailru .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:visited,.team_mailru .leaderboard-listing-item.current-user .leaderboard-listing-user:hover,.team_mailru .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:hover,.team_mailru .leaderboard-listing-item.current-user .leaderboard-listing-user:active,.team_mailru .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:active,.team_mailru .panel__heading,.team_mailru .table th,.team_mailru .markdownable table th,.markdownable .team_mailru table th,.team_mailru .markdownable table th,.team_icq .profile-header__title,.team_icq .profile-header__bio,.team_icq .button.button--success,.team_icq .button.button--success:visited,.team_icq .button.button--success:hover,.team_icq .button.button--success:active,.team_sony_playstation_network .tooltip__container,.team_sony_playstation_network .topbar .topbar-logo,.team_sony_playstation_network .topbar .topbar-navigation-link,.team_sony_playstation_network .topbar .topbar-navigation-link:visited,.team_sony_playstation_network .topbar .topbar-navigation-link:hover,.team_sony_playstation_network .topbar .topbar-navigation-link:active,.team_sony_playstation_network .icon-hamburger,.team_sony_playstation_network .icon-cross,.team_sony_playstation_network .topbar-sign-up-link:hover,.team_sony_playstation_network .topbar-sign-up-link:hover .topbar-sign-up-explanation,.team_sony_playstation_network .topbar-sign-up-explanation,.team_sony_playstation_network .banner,.team_sony_playstation_network .profile-header__bio,.team_sony_playstation_network .sub-header__menu-link,.team_sony_playstation_network .sub-header__menu-link:visited,.team_sony_playstation_network .sub-header__menu-link:hover,.team_sony_playstation_network .sub-header__menu-link:active,.team_sony_playstation_network .sub-header__menu-link.active,.team_sony_playstation_network .sub-header__menu-link.active:visited,.team_sony_playstation_network .sub-header__menu-link.active:hover,.team_sony_playstation_network .sub-header__menu-link.active:active,.team_sony_playstation_network .button,.team_sony_playstation_network .button.button--success,.team_sony_playstation_network .button:visited,.team_sony_playstation_network .button.button--success:visited,.team_sony_playstation_network .button:hover,.team_sony_playstation_network .button.button--success:hover,.team_sony_playstation_network .button:active,.team_sony_playstation_network .button.button--success:active,.team_sony_playstation_network .markdownable code,.team_sony_playstation_network .pre-wrap code,.team_sony_playstation_network .topbar-dropdown-toggle,.team_sony_playstation_network .topbar-dropdown-toggle:visited,.team_sony_playstation_network .topbar-dropdown-toggle:hover,.team_sony_playstation_network .topbar-dropdown-toggle:active,.team_sony_playstation_network .leaderboard-podium-user-meta,.team_sony_playstation_network .leaderboard-podium-user-name,.team_sony_playstation_network .timeline-datetime,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:visited,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:hover,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:active,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-meta,.team_sony_playstation_network .leaderboard-podium-rank,.team_sony_playstation_network .type-selector__search .input-tag,.team_sony_playstation_network .type-selector__suggestion--checked:hover,.team_sony_playstation_network .type-selector__suggestion:hover,.team_sony_playstation_network .wizard-step-indicator,.team_sony_playstation_network .leaderboard-listing-item.current-user .leaderboard-listing-user,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user,.team_sony_playstation_network .leaderboard-listing-item.current-user .leaderboard-listing-user:visited,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:visited,.team_sony_playstation_network .leaderboard-listing-item.current-user .leaderboard-listing-user:hover,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:hover,.team_sony_playstation_network .leaderboard-listing-item.current-user .leaderboard-listing-user:active,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:active,.team_sony_playstation_network .panel__heading,.directory__search-button,.wizard-step-indicator,.type-selector-list-item.active,a.mkto-button,button.mkto-button,.report-status-indicator,.report-status-indicator:hover,.report-status-indicator:active,.report-status-indicator:visited,.icon__glyph--white,.daisy-tooltip__content,.daisy-tooltip__content a,.daisy-button.daisy-button--primary,.daisy-button--danger.daisy-button--primary,.daisy-button--facebook.daisy-button--primary,.daisy-tag--dark-grey,.daisy-tag--green,.daisy-tag--blue,.daisy-tag--red,.daisy-tag--pink,.switch__wrapper,.daisy-timeline__step,.daisy-alert--red,.daisy-alert--green,.rest-hackers a,.overlay,.live-hackathon-layout {
@@ -82,7 +82,7 @@ color: #a5a5a5 !important;
 }
 
 .react-datepicker__year-option:hover,.react-datepicker__month-option:hover,.react-datepicker__month-year-option:hover,.invitation-header-image-divider > .divider,.substate-indicator--informative {
-background-color: #444 !important;
+background-color: #333 !important;
 }
 
 .settings-title-container--daisy,.daisy-text,.daisy-link,.daisy-h1,.daisy-h2,.daisy-h3,.daisy-h4,.daisy-h5,.daisy-h6,.year-in-review__bubble,.daisy-text,.daisy-h1,.daisy-h2,.daisy-h3,.daisy-h4,.daisy-h5,.daisy-h6,.daisy-button,.daisy-modal__content,.daisy-helper-text,.text-field__prefix,.text-field__postfix,.text-field__input,.daisy-banner,.card,.card__subheading,.daisy-table,.daisy-dropdown,.Select-input input,.Select-control--selected,.daisy-sub-header,.daisy-tag,.daisy-tag--yellow,.daisy-textarea,.daisy-textarea__field,.daisy-textarea__footer-tab,.daisy-textarea__footer-tab--active:hover,.switch__wrapper,.daisy-timeline,.daisy-alert,.link-tile {
@@ -102,7 +102,7 @@ border: 1px solid #333 !important;
 }
 
 body.non-boxless .container,.narrow-container,img.avatar,.dropdown-list-container,.dropdown-button,.dropdown-silent .dropdown-button:hover,.dropdown-silent.open .dropdown-button,.input,.select,.report-action-picker__input,.input__color-indicator,.modal-content,.popover__content,.popover__arrow-shadow,.status-page-image,.tooltip-password-advice,.typeahead-dropdown,.timeline-datetime,.timeline-indicator-dot,.markdown-textarea-container,.monospace-textarea-container,.dropdown-menu,.feature-toggle-bar,.invite-team-member-wrapper,.notifications-menu-wrapper,.settings-menu,.topbar--triage .sla-status-menu,.topbar .topbar__dropdown,.programs__search-dropdown,.report-action-picker__selected-entry,.dashboard-tooltip,.launch-invite-top-researchers__dropdown,.weakness-selector__search,.weakness-selector__wrapper,.settings-cover-photo,.wizard-step-indicator,.type-selector,.leaderboard-listing,.leaderboard-podium-item-container,.leaderboard-podium-rank,.badge,.reputation-change-badge,.severity-indicator {
-border: 1px solid #444 !important;
+border: 1px solid #333 !important;
 }
 
 .narrow-container--muted-border,.subject-selector__item--selected,.subject-selector__item:hover,.subject-selector__item--current-user,.vertical-menu__link:hover,.vertical-menu__link--active {
@@ -122,7 +122,7 @@ color: #a5a5a5 !important;
 }
 
 .pricing__button {
-border: 2px solid #444 !important;
+border: 2px solid #333 !important;
 }
 
 .pricing__button:hover,.pricing-plan,.button--gray,code,.inbox-item:hover,.vertical-menu--heading,.markdown-attachment-reference,.card__heading,.card__footer,.daisy-table__row--hoverable:hover,.daisy-table__row--active {
@@ -162,7 +162,7 @@ text-shadow: 0 0.5px 0 #999 !important;
 }
 
 .year-in-review__list-item,.daisy-tooltip--light .daisy-tooltip__content,.daisy-tooltip--light .daisy-tooltip__arrow-shadow,.text-field,.daisy-banner,.card,.Select-menu-outer,.Select-control,.daisy-dropdown.is-open .Select-control,.daisy-avatar,.daisy-textarea,.link-tile {
-border: 1px solid #444 !important;
+border: 1px solid #333 !important;
 }
 
 .year-in-review a,.year-in-review a:visited,.year-in-review a:active,.daisy-text--blue:visited,.daisy-text--blue:active,.daisy-text--blue:hover,.icon__glyph--blue,.daisy-tooltip--light .daisy-tooltip__content a,.icon-link .icon__glyph:hover,.daisy-textarea__footer-tab:hover {
@@ -170,7 +170,7 @@ color: #2D68A8 !important;
 }
 
 .year-in-review__username,.icon__background--light-grey {
-background-color: #444 !important;
+background-color: #333 !important;
 }
 
 .year-in-review__username--green:hover,.year-in-review__username--green:link,.year-in-review__username--green:active,.year-in-review__username--green:visited,.daisy-link--white,.daisy-link--white:visited,.daisy-link--white:hover,.daisy-link--white:active,.team_mailru .type-selector__suggestion--checked,.team_icq .profile-header__link,.team_icq .profile-header__link:visited,.team_icq .profile-header__link:hover,.team_icq .profile-header__link:active,.team_sony_playstation_network .type-selector__suggestion--checked {
@@ -178,7 +178,7 @@ color: #a5a5a5  !important;
 }
 
 .button {
-background-color: #444 !important;
+background-color: #333 !important;
 }
 
 .button {
@@ -194,7 +194,7 @@ color: #216ba5 !important;
 }
 
 .content-footer-wrapper,.modal-footer,.timeline-indicator-dot::after,.markdown-footer,.invite-team-member-footer,.notifications__footer,.type-selector-no-type,.table--rounded tfoot td {
-border-top: 1px solid #444 !important;
+border-top: 1px solid #333 !important;
 }
 
 .dropdown-list-container,.popover__content,.popover__arrow-shadow,.tooltip-password-advice,.typeahead-dropdown,.subject-selector__list,.dropdown-menu,.invite-team-member-wrapper,.notifications-menu-wrapper,.settings-menu,.topbar,.topbar--triage .sla-status-menu,.topbar .topbar__dropdown,.programs__search-dropdown,.dashboard-tooltip {
@@ -218,11 +218,11 @@ filter: "progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorst
 }
 
 .dropdown-button:hover,.open .dropdown-button {
-background: -webkit-linear-gradient(#222 0%, #444 100%) !important;
+background: -webkit-linear-gradient(#222 0%, #333 100%) !important;
 }
 
 .dropdown-button:hover,.open .dropdown-button {
-background: linear-gradient(#222 0%, #444 100%) !important;
+background: linear-gradient(#222 0%, #333 100%) !important;
 }
 
 .dropdown-button:hover,.open .dropdown-button {
@@ -238,15 +238,15 @@ border-color: #999 transparent transparent !important;
 }
 
 .grid-filler {
-box-shadow: inset 0 0 0 1px #444 !important;
+box-shadow: inset 0 0 0 1px #333 !important;
 }
 
 .input--focus,.input:focus,.select:focus,.report-action-picker__input:focus,.markdown-textarea-container.is-focussed {
-border-color: #444 !important;
+border-color: #333 !important;
 }
 
 .input--superman::-webkit-input-placeholder,.input--superman::-moz-placeholder,.input--superman:-ms-input-placeholder,.input--superman::placeholder,.criteria-add .icon-minus,.criteria-add .icon-plus,.criteria-delete .icon-minus,.criteria-delete .icon-plus {
-color: #444 !important;
+color: #333 !important;
 }
 
 .input--reference-id,.internal,.is-internal .timeline-container,.hacktivity-item--privileged,.markdown-textarea-container.markdown-textarea-container--is-internal,.report-meta-data--internal,.report-action-picker__input--reference,.report-action-picker__input--assignee-typeahead,.report-action-picker__input--internal,.retesting {
@@ -266,7 +266,7 @@ border-left: 3px solid #333 !important;
 }
 
 .password-strength-container {
-background: #444 !important;
+background: #333 !important;
 }
 
 .popover__footer,.separated-and-muted,.is-separated-and-muted ~ .is-separated-and-muted,.inbox-list__wrapper,.bugs-list-pagination,.bulk-actions-report-heading:first-child,.subject-selector__item--selected + .subject-selector__item,.subject-selector__item:hover + .subject-selector__item,.genius__footer,.topbar-signed-out .topbar-navigation-item,.profile-stats__row + .profile-stats__row,.report-meta,.report-heading__social-share .report__social-share,.reports__davr-signup,.common-response,.cluster__item + .cluster__item,.list-selector__item,.mini-profile__meta-divider,.type-selector__weaknesses,.type-selector__assets,.leaderboard__item,.leaderboard-listing-item + .leaderboard-listing-item,.leaderboard-podium-user,.table td,.markdownable table td,.table th,.markdownable table th {
@@ -274,15 +274,15 @@ border-top: 1px solid #333 !important;
 }
 
 .popover--new-feature .popover__content,.popover--new-feature .popover__arrow-shadow {
-border-color: #444 !important;
+border-color: #333 !important;
 }
 
 .popover--tutorial .popover__content,.popover--tutorial .popover__arrow {
-background: #444 !important;
+background: #333 !important;
 }
 
 .separator,.separator--line,.dropdown-menu-header,.table--rounded thead th,.table--rounded td {
-border-bottom: 1px solid #444 !important;
+border-bottom: 1px solid #333 !important;
 }
 
 .tooltip__container {
@@ -310,7 +310,7 @@ border-left-color: #222 !important;
 }
 
 .tooltip-password-advice::before {
-border-left-color: #444 !important;
+border-left-color: #333 !important;
 }
 
 .typeahead-dropdown::after,.invite-team-member-wrapper::after,.notifications-menu-wrapper::after,.settings-menu::after,.topbar--triage .sla-status-menu::after,.topbar .topbar__dropdown::after,.programs__search-dropdown::after {
@@ -318,11 +318,11 @@ border-bottom-color: #222 !important;
 }
 
 .typeahead-dropdown::before,.invite-team-member-wrapper::before,.notifications-menu-wrapper::before,.settings-menu::before,.topbar--triage .sla-status-menu::before,.topbar .topbar__dropdown::before,.programs__search-dropdown::before {
-border-bottom-color: #444 !important;
+border-bottom-color: #333 !important;
 }
 
 .typeahead-suggestion {
-border-bottom: 1px solid #444 !important;
+border-bottom: 1px solid #333 !important;
 }
 
 .daisy-text--blue,.daisy-link,.daisy-link:visited,.daisy-link:active {
@@ -346,11 +346,11 @@ color: #555 !important;
 }
 
 .subject-selector__list,.subject-selector--open .subject-selector__current-item,.subject-selector__current-item:hover,.Select-control,.Select-menu-outer {
-border: 1px solid #444 !important;
+border: 1px solid #333 !important;
 }
 
 .timeline-line,.comment-preview-timeline {
-background: #444 !important;
+background: #333 !important;
 }
 
 .is-internal .timeline-container,.is-internal.is-highlighted .timeline-container,.retesting,.badge--confidential,.badge--disabled-submissions {
@@ -362,7 +362,7 @@ box-shadow: inset 0 0 0 2px #222 !important;
 }
 
 .hacktivity-item + .hacktivity-item,.daisy-table__row + .daisy-table__row,.daisy-list--separator li + li,.daisy-textarea__footer-message,.daisy-textarea__footer-tab {
-border-top: 1px solid #444 !important;
+border-top: 1px solid #333 !important;
 }
 
 .hacktivity-item--privileged .hacktivity-item__undisclosed-title {
@@ -370,7 +370,7 @@ color: #330000 !important;
 }
 
 .markdown-tab,.topbar--triage .topbar-logo,.weakness-selector__clusters {
-border-right: 1px solid #444 !important;
+border-right: 1px solid #333 !important;
 }
 
 .markdown-textarea-container--is-internal .markdown-tab.is-active,.markdown-textarea-container--is-internal .markdown-tab.is-active::before,.markdown-textarea-container--is-internal .markdown-textarea,.badge--confidential,.badge--disabled-submissions {
@@ -386,11 +386,11 @@ background: #333 !important;
 }
 
 .notification-indicator {
-border: 1px solid #444 !important;
+border: 1px solid #333 !important;
 }
 
 .notification-indicator:active {
-background: #444 !important;
+background: #333 !important;
 }
 
 .settings-group-info,.settings-group-listing,.settings-group-listing--spacious .settings-group-listing-item-link--break {
@@ -426,7 +426,7 @@ border-color: #999 !important;
 }
 
 .attachments-upload {
-border: 1px dashed #444 !important;
+border: 1px dashed #333 !important;
 }
 
 .attachments-upload .icon-paperclip,.component-placeholder__text,.component-placeholder__substate-indicator {
@@ -434,7 +434,7 @@ color: #181818 !important;
 }
 
 .comment-preview-container,.table--rounded {
-border: 1px #444 solid !important;
+border: 1px #333 solid !important;
 }
 
 .c3 text {
@@ -454,7 +454,7 @@ background-color: #252525 !important;
 }
 
 .type-selector-column,.table--rounded td + td {
-border-left: 1px solid #444 !important;
+border-left: 1px solid #333 !important;
 }
 
 .type-selector-list-item.active .type-selector-checkbox:disabled + .type-selector-list-label {
@@ -466,7 +466,7 @@ border-top-color: #333 !important;
 }
 
 .leaderboard__item:hover .leaderboard__column--active {
-background: #444 !important;
+background: #333 !important;
 }
 
 .badge--ibb,.badge--managed {
@@ -474,7 +474,7 @@ background-color: #3F6A88 !important;
 }
 
 .substate-indicator--informative {
-border-color: #444 !important;
+border-color: #333 !important;
 }
 
 .ps-container.ps-in-scrolling.ps-x > .ps-scrollbar-x-rail > .ps-scrollbar-x,.ps-container.ps-in-scrolling.ps-y > .ps-scrollbar-y-rail > .ps-scrollbar-y,.ps-container:hover.ps-in-scrolling.ps-x > .ps-scrollbar-x-rail > .ps-scrollbar-x,.ps-container:hover.ps-in-scrolling.ps-y > .ps-scrollbar-y-rail > .ps-scrollbar-y,.ps-container:hover > .ps-scrollbar-x-rail:hover > .ps-scrollbar-x,.ps-container:hover > .ps-scrollbar-y-rail:hover > .ps-scrollbar-y {
@@ -482,11 +482,11 @@ background-color: #555 !important;
 }
 
 .ps-container > .ps-scrollbar-x-rail > .ps-scrollbar-x,.ps-container > .ps-scrollbar-y-rail > .ps-scrollbar-y {
-background-color: #444 !important;
+background-color: #333 !important;
 }
 
 .Select.is-open > .Select-control {
-border-color: #444 #444 #444 !important;
+border-color: #333 #333 #333 !important;
 }
 
 .Select.is-open > .Select-control .Select-arrow {
@@ -494,15 +494,15 @@ border-color: transparent transparent #555 !important;
 }
 
 .Select-control {
-border-color: #444 #444 #444 !important;
+border-color: #333 #333 #333 !important;
 }
 
 .Select-placeholder,.Select--single > .Select-control .Select-value {
-color: #444 !important;
+color: #333 !important;
 }
 
 .Select-loading {
-border: 2px solid #444 !important;
+border: 2px solid #333 !important;
 }
 
 .Select-loading {
@@ -514,7 +514,7 @@ border-color: #555 transparent transparent !important;
 }
 
 .Select-option.is-disabled {
-color: #444 !important;
+color: #333 !important;
 }
 
 .icon__background--blue {
@@ -522,7 +522,7 @@ background-color: #2D68A8 !important;
 }
 
 .icon__glyph--light-grey {
-color: #444 !important;
+color: #333 !important;
 }
 
 .daisy-tooltip__content {
@@ -534,7 +534,7 @@ background: #252525 !important;
 }
 
 .text-field,.daisy-textarea {
-box-shadow: inset 0 1px 3px 0 #444 !important;
+box-shadow: inset 0 1px 3px 0 #333 !important;
 }
 
 .text-field--has-focus,.Select.is-focused:not(.is-open) > .Select-control,.Select.is-searchable.is-focused .Select-control,.daisy-textarea--focused,.link-tile:hover {
@@ -542,23 +542,23 @@ border-color: #2D68A8 !important;
 }
 
 .daisy-banner--grey {
-border-left-color: #444 !important;
+border-left-color: #333 !important;
 }
 
 .grid__row--has-separator > .grid__column + .grid__column,.daisy-list--horizontal.daisy-list--separator li + li {
-border-left: 1px solid #444 !important;
+border-left: 1px solid #333 !important;
 }
 
 .Select-option,.daisy-sub-header,.daisy-separator {
-border-bottom: 1px solid #444 !important;
+border-bottom: 1px solid #333 !important;
 }
 
 .daisy-tag--grey,.daisy-timeline__line,.daisy-alert--grey {
-background: #444 !important;
+background: #333 !important;
 }
 
 .daisy-textarea__footer-tab,ul.triage-dashboard-views li {
-border-right: 1px solid #444 !important;
+border-right: 1px solid #333 !important;
 }
 
 .highlight .cp,.highlight .cs,.highlight .gh,.highlight .bp {
@@ -570,7 +570,7 @@ color: #999 !important;
 }
 
 .highlight .gu {
-color: #444 !important;
+color: #333 !important;
 }
 
 .highlight {
