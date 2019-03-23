@@ -7,25 +7,25 @@ const colorRegex = /(#([0-9a-f]{3}){1,2}|(rgba|hsla)\(\d{1,3}%?(,\s?\d{1,3}%?){2
 
 const colorsMap = {
   "#ffffff": "#151515",
-  "#000000": "#c0c0c0",
-  "#aaaaaa": "#333",
+  "#000000": "#999",
+  "#aaaaaa": "#444",
   "#f5f5f5": "#181818",
-  "#e5e5e5": "#222",
-  "#ececec": "#333",
-  "#c5c5c5": "#333",
+  "#e5e5e5": "#333",
+  "#ececec": "#444",
+  "#c5c5c5": "#444",
   "#f8f8f8": "#181818",
   "#333333": "#d0d0d0",
   "#d9ebf8": "#3F6A88",
   "#fbf1f1": "#440000",
   "#f5dddd": "#330000",
-  "#cccccc": "#333",
-  "#d6d6d6": "#333",
-  "#efefef": "#222",
-  "#c0c0c0": "#333",
-  "#999999": "#444",
-  "#ebebeb": "#333",
-  "#fff0b9": "#333",
-  "#e9e9e9": "#444",
+  "#cccccc": "#444",
+  "#d6d6d6": "#444",
+  "#efefef": "#333",
+  "#c0c0c0": "#444",
+  "#999999": "#555",
+  "#ebebeb": "#444",
+  "#fff0b9": "#444",
+  "#e9e9e9": "#555",
 
   "rgb(22, 56, 84)": "rgb(33, 107, 165)",
 
@@ -51,6 +51,10 @@ a.topbar-navigation-link, i.icon-logo, input {
   div.topbar-navigation-wrapper {
     border: 0 !important;
   }
+}
+
+hr {
+  border-color: #555;
 }
 `;
 
