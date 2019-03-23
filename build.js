@@ -27,6 +27,7 @@ const colorsMap = {
   "#fff0b9": "#444",
   "#e9e9e9": "#444",
   "#d9d9d9": "#444",
+  "#b3b3b3": "#444",
 
   "rgb(22, 56, 84)": "rgb(33, 107, 165)",
 
@@ -164,7 +165,10 @@ function processRules({ declarations, rules, type, selectors }) {
     .map(({ value, property }) => {
       // make sure it's not comment.
       if (value && colorRegex.test(value)) {
-        const newValue = value.replace(colorRegex, processColor);
+        const newValue = value.replace(
+          new RegExp(colorRegex, "gi"),
+          processColor
+        );
         if (newValue !== value) {
           return {
             property,
