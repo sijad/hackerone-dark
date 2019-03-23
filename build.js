@@ -38,7 +38,8 @@ const colorsMap = {
 
 const propertyColorsMap = {
   color: {
-    "#ffffff": "#a5a5a5"
+    "#ffffff": "#a5a5a5",
+    "#333333": "#a5a5a5"
   }
 };
 
@@ -170,7 +171,7 @@ function processRules({ declarations, rules, type, selectors }) {
   const properties = declarations
     .map(({ value, property }) => {
       // make sure it's not comment.
-      if (value && colorRegex.test(value)) {
+      if (value && value.match(colorRegex)) {
         const newValue = value.replace(new RegExp(colorRegex, "gi"), c =>
           processColor(c, property)
         );
@@ -182,8 +183,9 @@ function processRules({ declarations, rules, type, selectors }) {
           };
         }
       }
+      return false;
     })
-    .filter(v => v && true);
+    .filter(v => v);
 
   if (properties && properties.length) {
     return {
