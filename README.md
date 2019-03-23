@@ -2,7 +2,7 @@
 
 ## Installation
 
-install it from [Userstyles](https://userstyles.org/styles/151107/hackerone-dark). follow instructions.
+Install [Stylus](https://add0n.com/stylus.html) for either [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/), [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) or [Opera](https://addons.opera.com/en-gb/extensions/details/stylus/) and then [install the theme](https://raw.githubusercontent.com/sijad/hackerone-dark/master/hackerone-dark.user.css) which supports automatic updates and customization.
 
 ## Contributing
 
