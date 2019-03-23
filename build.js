@@ -6,7 +6,7 @@ const { version } = require("./package.json");
 const colorRegex = /(#([0-9a-f]{3}){1,2}|(rgba|hsla)\(\d{1,3}%?(,\s?\d{1,3}%?){2},\s?(1|0?\.\d+)\)|(rgb|hsl)\(\d{1,3}%?(,\s?\d{1,3}%?\)){2})/gi;
 
 const colorsMap = {
-  "#ffffff": "#151515",
+  "#ffffff": "#222",
   "#000000": "#999",
   "#aaaaaa": "#444",
   "#f5f5f5": "#181818",
@@ -25,7 +25,8 @@ const colorsMap = {
   "#999999": "#555",
   "#ebebeb": "#444",
   "#fff0b9": "#444",
-  "#e9e9e9": "#555",
+  "#e9e9e9": "#444",
+  "#d9d9d9": "#444",
 
   "rgb(22, 56, 84)": "rgb(33, 107, 165)",
 
@@ -39,7 +40,7 @@ const manualCss = `
   border-color: rgb(33, 107, 165) transparent transparent rgb(33, 107, 165) !important;
 }
 
-a.topbar-navigation-link, i.icon-logo, input {
+i.icon-logo, input {
   color: #c0c0c0 !important;
 }
 

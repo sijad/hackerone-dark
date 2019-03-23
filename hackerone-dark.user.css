@@ -11,7 +11,7 @@
   border-color: rgb(33, 107, 165) transparent transparent rgb(33, 107, 165) !important;
 }
 
-a.topbar-navigation-link, i.icon-logo, input {
+i.icon-logo, input {
   color: #c0c0c0 !important;
 }
 
@@ -30,11 +30,11 @@ hr {
 }
 
 .react-datepicker-popper[data-placement^="top"] .react-datepicker__triangle,.react-datepicker__year-read-view--down-arrow,.react-datepicker__month-read-view--down-arrow,.react-datepicker__month-year-read-view--down-arrow,.react-datepicker-popper[data-placement^="top"] .react-datepicker__triangle::before,.react-datepicker__year-read-view--down-arrow::before,.react-datepicker__month-read-view--down-arrow::before,.react-datepicker__month-year-read-view--down-arrow::before {
-border-top-color: #151515 !important;
+border-top-color: #222 !important;
 }
 
 .react-datepicker,.container,.year-in-review__outro,.dropdown-button,.input:disabled,.select:disabled,.report-action-picker__input:disabled,.input--superman:disabled,.modal-content,.feature-toggle-bar,.team_mailru .topbar-sign-up-menu,.team_mailru .notifications-menu-wrapper,.team_mailru .settings-menu,.team_mailru .input,.team_mailru .select,.team_mailru .report-action-picker__input,.team_mailru .markdown-panes textarea,.team_mailru .markdown-textarea-container,.team_mailru .markdown-tab:hover,.team_mailru .markdown-tab.is-active,.team_mailru .markdown-tab.is-active::before,.team_mailru .leaderboard-listing-item:nth-child(even),.team_mailru .feature-toggle-bar,.team_sony_playstation_network .topbar-sign-up-menu,.team_sony_playstation_network .notifications-menu-wrapper,.team_sony_playstation_network .settings-menu,.team_sony_playstation_network .input,.team_sony_playstation_network .select,.team_sony_playstation_network .report-action-picker__input,.team_sony_playstation_network .markdown-panes textarea,.team_sony_playstation_network .markdown-textarea-container,.team_sony_playstation_network .markdown-tab:hover,.team_sony_playstation_network .markdown-tab.is-active,.team_sony_playstation_network .markdown-tab.is-active::before,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even),.team_sony_playstation_network .feature-toggle-bar,.qr-code td.white,.progress-bar__step,.drag-table-row td,.Select-control,.Select-menu-outer,.Select-option,.icon__background--white,.card,.Select-control,.switch__circle,.link-tile {
-background-color: #151515 !important;
+background-color: #222 !important;
 }
 
 .react-datepicker,.react-datepicker__current-month,.react-datepicker-time__header,.react-datepicker__day-name,.react-datepicker__day,.react-datepicker__time-name,.react-datepicker__month--selecting-range .react-datepicker__day--in-range:not(.react-datepicker__day--in-selecting-range),.narrow-container,.pricing-plan__title,.superman-hero .narrow-container a,.superman-hero .narrow-container a:hover,.superman-hero .narrow-container a:link,.superman-hero .narrow-container a:visited,.superman-title__content,.superman-footer__heading,.banner--dod-banner,.button,.button,.button:visited,.button:hover,.button:active,.button--active,.button--gray,.button--gray,.button--gray:visited,.button--gray:hover,.button--gray:active,.button--gray--active,.dropdown-item,.dropdown-item:visited,.dropdown-item:hover,.dropdown-item:active,.dropdown-button,.dropdown-button:visited,.dropdown-button:focus,.dropdown-button:hover,.dropdown-button:active,body,.inbox-item__title,.inbox-item__title:visited,.inbox-item__title:hover,.inbox-item__title:active,.notification-indicator,.notification,.notification--unread,.notification:active,.notification:active:visited,.notification:visited,.settings-group-listing-item-link,.settings-group-listing-item-link:visited,.settings-group-listing-item-link:hover,.settings-group-listing-item-link:active,.topbar .topbar-logo,.topbar .topbar-logo:visited,.topbar .topbar-logo:hover,.topbar .topbar-logo:active,.topbar-signed-out .topbar-logo,.topbar-signed-out .topbar-logo:visited,.topbar-signed-out .topbar-logo:hover,.topbar-signed-out .topbar-logo:active,.vertical-menu--heading,.vertical-menu__link--active,.vertical-menu__link--active:visited,.team_blizzard .markdownable .hljs-deletion,.team_blizzard .markdownable .hljs-addition,.team_blizzard .pre-wrap .hljs-deletion,.team_blizzard .pre-wrap .hljs-addition,.team_blizzard .modal-content h2,.team_mailru .markdownable .hljs-deletion,.team_mailru .markdownable .hljs-addition,.team_mailru .pre-wrap .hljs-deletion,.team_mailru .pre-wrap .hljs-addition,.team_icq .button,.team_icq .button:visited,.team_icq .button:hover,.team_icq .button:active,.team_icq .wizard-caption-heading-title,.team_icq .type-selector__suggestion,.team_icq .type-selector__suggestion:visited,.team_icq .type-selector__suggestion:hover,.team_icq .type-selector__suggestion:active,.team_icq .dropdown-button,.team_icq .dropdown-button:visited,.team_icq .dropdown-button:hover,.team_icq .dropdown-button:active,.team_icq .profile-stats-amount,.team_sony_playstation_network .hljs-deletion,.team_sony_playstation_network .hljs-addition,.team_sony_playstation_network .markdownable,.team_sony_playstation_network .pre-wrap,.team_sony_playstation_network .separator--text,.team_sony_playstation_network .timeline-container-subject,.team_sony_playstation_network .profile-stats-meta,.team_sony_playstation_network .user-item__user .user-item__meta,.team_sony_playstation_network .input,.team_sony_playstation_network .select,.team_sony_playstation_network .report-action-picker__input,.team_sony_playstation_network .markdown-panes textarea,.team_sony_playstation_network .markdown-footer,.team_sony_playstation_network .markdown-textarea-container,.team_sony_playstation_network .feature-toggle-bar,.team_sony_playstation_network .modal-content .markdownable,.team_sony_playstation_network .modal-content h2,.directory__title,.directory__subtitle,.attachment-uploaded,.trigger-rule,.trigger-rule-title,.cluster__title,.type-selector__suggestion,.type-selector__suggestion:visited,.type-selector__suggestion:hover,.type-selector__suggestion:active,.mkto-footer__heading,.mkto-footer__link,.mkto-footer__link:visited,.mkto-footer__utility-item,.mkto-footer__utility-item a,.mkto-footer__utility-item a:visited,.mkto-footer__utility-item a:hover,.mkto-footer__utility-item a:active,.icon-share-hackerone:hover,.icon-share-hackerone:active {
@@ -62,7 +62,7 @@ color: #444 !important;
 }
 
 .react-datepicker__day--highlighted,.react-datepicker__day--selected,.react-datepicker__day--in-selecting-range,.react-datepicker__day--in-range,.react-datepicker__day--keyboard-selected,.react-datepicker__close-icon::after,.masthead__close-icon,.masthead__play-icon,.pricing__button--blue,.pricing__button--green,.pricing__button--blue:link,.pricing__button--blue:visited,.pricing__button--green:link,.pricing__button--green:visited,.pricing-plan__indicator,.promo-banner,.superman-hero,.superman-hero a,.superman-hero a:visited,.superman-button,.superman-button:visited,.superman-button:hover,.superman-button:active,.superman-circle--translucent,.superman-title--white .superman-title__content,.superman-testimonials,.landing__lead-form-link a,.landing__lead-form-link a:visited,.year-in-review__hero,.year-in-review__list-indicator,.year-in-review__username--green,.button--danger,.button--danger,.button--danger:visited,.button--danger:hover,.button--danger:active,.button--danger--active,.button--success,.button--success,.button--success:visited,.button--success:hover,.button--success:active,.button--success--active,.button--blue,.button--blue,.button--blue:visited,.button--blue:hover,.button--blue:active,.button--blue--active,.label--green,.label--red,.label--yellow,.label--blue,.tooltip__container,.notification-indicator.unread,.topbar--triage .topbar-anc,.topbar--triage .topbar-navigation-item .topbar__dropdown-link,.topbar .topbar-logo,.topbar .topbar-logo:visited,.topbar .topbar-logo:hover,.topbar .topbar-logo:active,.topbar .topbar-navigation-link,.topbar .topbar-navigation-link:visited,.topbar .topbar-navigation-link:hover,.topbar .topbar-navigation-link:active,.topbar .topbar-navigation-link.active,.topbar .topbar-toggle,.topbar-signed-out .topbar-toggle,.topbar-signed-out .topbar-subnav-wrapper .topbar-subnav .topbar-subnav-item,.profile-header__link,.profile-header__link:visited,.profile-header__link:hover,.profile-header__link:active,.profile-header__title,.profile-header__bio,.profile-header__program-type,.profile-header__information-item,.team_blizzard .topbar .topbar-logo,.team_blizzard .icon-hamburger,.team_blizzard .icon-cross,.team_blizzard .notifications-menu-wrapper .dropdown-menu-header,.team_blizzard .topbar-sign-up-link:hover,.team_blizzard .topbar-sign-up-link:hover .topbar-sign-up-explanation,.team_blizzard .sub-header__menu-link.active,.team_blizzard .sub-header__menu-link.active:visited,.team_blizzard .sub-header__menu-link.active:hover,.team_blizzard .sub-header__menu-link.active:active,.team_blizzard .button,.team_blizzard .button.button--success,.team_blizzard .button:visited,.team_blizzard .button.button--success:visited,.team_blizzard .button:hover,.team_blizzard .button.button--success:hover,.team_blizzard .button:active,.team_blizzard .button.button--success:active,.team_blizzard .button--active,.team_blizzard .button.button--success--active,.team_blizzard .separator--text,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:visited,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:hover,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:active,.team_blizzard .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-meta,.team_blizzard .leaderboard-podium-rank,.team_blizzard .type-selector__search .input-tag,.team_blizzard .type-selector__suggestion--checked,.team_blizzard .type-selector__suggestion--checked:visited,.team_blizzard .type-selector__suggestion--checked:hover,.team_blizzard .type-selector__suggestion--checked:active,.team_blizzard .input,.team_blizzard .select,.team_blizzard .report-action-picker__input,.team_blizzard .markdown-panes textarea,.team_blizzard .input:focus,.team_blizzard .select:focus,.team_blizzard .report-action-picker__input:focus,.team_blizzard .markdown-panes textarea:focus,.team_blizzard .markdown-textarea-container,.team_blizzard .leaderboard-listing-item.current-user .leaderboard-listing-user,.team_blizzard .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user,.team_blizzard .leaderboard-listing-item.current-user .leaderboard-listing-user:visited,.team_blizzard .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:visited,.team_blizzard .leaderboard-listing-item.current-user .leaderboard-listing-user:hover,.team_blizzard .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:hover,.team_blizzard .leaderboard-listing-item.current-user .leaderboard-listing-user:active,.team_blizzard .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:active,.team_mailru .tooltip__container,.team_mailru .topbar .topbar-logo,.team_mailru .topbar .topbar-navigation-link,.team_mailru .topbar .topbar-navigation-link:visited,.team_mailru .topbar .topbar-navigation-link:hover,.team_mailru .topbar .topbar-navigation-link:active,.team_mailru .icon-hamburger,.team_mailru .icon-cross,.team_mailru .topbar-sign-up-link:hover,.team_mailru .topbar-sign-up-link:hover .topbar-sign-up-explanation,.team_mailru .topbar-sign-up-explanation,.team_mailru .banner,.team_mailru .profile-header__bio,.team_mailru .sub-header__menu-link,.team_mailru .sub-header__menu-link:visited,.team_mailru .sub-header__menu-link:hover,.team_mailru .sub-header__menu-link:active,.team_mailru .sub-header__menu-link.active,.team_mailru .sub-header__menu-link.active:visited,.team_mailru .sub-header__menu-link.active:hover,.team_mailru .sub-header__menu-link.active:active,.team_mailru .button,.team_mailru .button.button--success,.team_mailru .button:visited,.team_mailru .button.button--success:visited,.team_mailru .button:hover,.team_mailru .button.button--success:hover,.team_mailru .button:active,.team_mailru .button.button--success:active,.team_mailru .markdownable code,.team_mailru .pre-wrap code,.team_mailru .topbar-dropdown-toggle,.team_mailru .topbar-dropdown-toggle:visited,.team_mailru .topbar-dropdown-toggle:hover,.team_mailru .topbar-dropdown-toggle:active,.team_mailru .leaderboard-podium-user-meta,.team_mailru .leaderboard-podium-user-name,.team_mailru .timeline-datetime,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:visited,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:hover,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:active,.team_mailru .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-meta,.team_mailru .leaderboard-podium-rank,.team_mailru .type-selector__search .input-tag,.team_mailru .type-selector__suggestion--checked:hover,.team_mailru .type-selector__suggestion:hover,.team_mailru .wizard-step-indicator,.team_mailru .leaderboard-listing-item.current-user .leaderboard-listing-user,.team_mailru .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user,.team_mailru .leaderboard-listing-item.current-user .leaderboard-listing-user:visited,.team_mailru .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:visited,.team_mailru .leaderboard-listing-item.current-user .leaderboard-listing-user:hover,.team_mailru .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:hover,.team_mailru .leaderboard-listing-item.current-user .leaderboard-listing-user:active,.team_mailru .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:active,.team_mailru .panel__heading,.team_mailru .table th,.team_mailru .markdownable table th,.markdownable .team_mailru table th,.team_mailru .markdownable table th,.team_icq .profile-header__title,.team_icq .profile-header__bio,.team_icq .button.button--success,.team_icq .button.button--success:visited,.team_icq .button.button--success:hover,.team_icq .button.button--success:active,.team_sony_playstation_network .tooltip__container,.team_sony_playstation_network .topbar .topbar-logo,.team_sony_playstation_network .topbar .topbar-navigation-link,.team_sony_playstation_network .topbar .topbar-navigation-link:visited,.team_sony_playstation_network .topbar .topbar-navigation-link:hover,.team_sony_playstation_network .topbar .topbar-navigation-link:active,.team_sony_playstation_network .icon-hamburger,.team_sony_playstation_network .icon-cross,.team_sony_playstation_network .topbar-sign-up-link:hover,.team_sony_playstation_network .topbar-sign-up-link:hover .topbar-sign-up-explanation,.team_sony_playstation_network .topbar-sign-up-explanation,.team_sony_playstation_network .banner,.team_sony_playstation_network .profile-header__bio,.team_sony_playstation_network .sub-header__menu-link,.team_sony_playstation_network .sub-header__menu-link:visited,.team_sony_playstation_network .sub-header__menu-link:hover,.team_sony_playstation_network .sub-header__menu-link:active,.team_sony_playstation_network .sub-header__menu-link.active,.team_sony_playstation_network .sub-header__menu-link.active:visited,.team_sony_playstation_network .sub-header__menu-link.active:hover,.team_sony_playstation_network .sub-header__menu-link.active:active,.team_sony_playstation_network .button,.team_sony_playstation_network .button.button--success,.team_sony_playstation_network .button:visited,.team_sony_playstation_network .button.button--success:visited,.team_sony_playstation_network .button:hover,.team_sony_playstation_network .button.button--success:hover,.team_sony_playstation_network .button:active,.team_sony_playstation_network .button.button--success:active,.team_sony_playstation_network .markdownable code,.team_sony_playstation_network .pre-wrap code,.team_sony_playstation_network .topbar-dropdown-toggle,.team_sony_playstation_network .topbar-dropdown-toggle:visited,.team_sony_playstation_network .topbar-dropdown-toggle:hover,.team_sony_playstation_network .topbar-dropdown-toggle:active,.team_sony_playstation_network .leaderboard-podium-user-meta,.team_sony_playstation_network .leaderboard-podium-user-name,.team_sony_playstation_network .timeline-datetime,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:visited,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:hover,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-name:active,.team_sony_playstation_network .leaderboard-podium-item-container.current-user .leaderboard-podium-user .leaderboard-podium-user-meta,.team_sony_playstation_network .leaderboard-podium-rank,.team_sony_playstation_network .type-selector__search .input-tag,.team_sony_playstation_network .type-selector__suggestion--checked:hover,.team_sony_playstation_network .type-selector__suggestion:hover,.team_sony_playstation_network .wizard-step-indicator,.team_sony_playstation_network .leaderboard-listing-item.current-user .leaderboard-listing-user,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user,.team_sony_playstation_network .leaderboard-listing-item.current-user .leaderboard-listing-user:visited,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:visited,.team_sony_playstation_network .leaderboard-listing-item.current-user .leaderboard-listing-user:hover,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:hover,.team_sony_playstation_network .leaderboard-listing-item.current-user .leaderboard-listing-user:active,.team_sony_playstation_network .leaderboard-listing-item:nth-child(even).current-user .leaderboard-listing-user:active,.team_sony_playstation_network .panel__heading,.directory__search-button,.wizard-step-indicator,.type-selector-list-item.active,a.mkto-button,button.mkto-button,.report-status-indicator,.report-status-indicator:hover,.report-status-indicator:active,.report-status-indicator:visited,.icon__glyph--white,.daisy-tooltip__content,.daisy-tooltip__content a,.daisy-button.daisy-button--primary,.daisy-button--danger.daisy-button--primary,.daisy-button--facebook.daisy-button--primary,.daisy-tag--dark-grey,.daisy-tag--green,.daisy-tag--blue,.daisy-tag--red,.daisy-tag--pink,.switch__wrapper,.daisy-timeline__step,.daisy-alert--red,.daisy-alert--green,.rest-hackers a,.overlay,.live-hackathon-layout {
-color: #151515 !important;
+color: #222 !important;
 }
 
 .react-datepicker__year-option:hover,.react-datepicker__month-option:hover,.react-datepicker__month-year-option:hover,.invitation-header-image-divider > .divider,.substate-indicator--informative {
@@ -74,7 +74,7 @@ background: #181818 !important;
 }
 
 .content-wrapper,.narrow-container,.pricing__button,.pricing-plan__top,.controller_maturity_model,.controller_blog,.controller_home-about,.controller_home-careers,.controller_home-resources,.controller_home-product,.controller_teams.action_new,.controller_press,.superman-circle,.superman-comparison,.year-in-review__topbar,.year-in-review__bug,.year-in-review__bubble,.year-in-review__list-item,img.avatar,.dropdown-list-container,.input,.select,.report-action-picker__input,.password-strength-separator,.popover__content,.popover__arrow,.popover--tutorial .popover__footer,.tether-element-attached-bottom.tether-element-attached-center .popover--tutorial .popover__arrow,.separator--text,.status-page-image,.tooltip-password-advice,.typeahead-dropdown,.inbox__filters,.inbox__left-column,.inbox-list__topbar,.bugs-list-pagination,.subject-selector__list,.subject-selector--open .subject-selector__current-item,.subject-selector__current-item:hover,.timeline-datetime,.timeline-indicator-dot,.genius__footer,.markdown-textarea-container,.markdown-tab:hover,.markdown-tab.is-active,.markdown-tab.is-active::before,.markdown-textarea:disabled,.monospace-textarea:disabled,.dropdown-menu,.invite-team-member-wrapper,.notifications-menu-wrapper,.settings-menu,.sub-header,.topbar--triage .sla-status-menu,.topbar .topbar__dropdown,.topbar-signed-out .topbar-navigation-link,.topbar-signed-out .topbar-subnav-wrapper .topbar-subnav,.topbar-signed-out .topbar-navigation-wrapper,.vertical-menu,.team_mailru .separator--text,.team_mailru .content-wrapper,.team_mailru .panel,.team_sony_playstation_network .separator--text,.team_sony_playstation_network .content-wrapper,.team_sony_playstation_network .panel,.programs__search-dropdown,.comment-preview-head,.report-heading__toggle,.common-responses-input-wrapper .twitter-typeahead,.dashboard-tooltip,.integration__jira__version:hover,.settings-container .settings-column--has-background,.settings-cover-photo,.leaderboard-listing,.leaderboard-podium-item-container,.reputation-change-badge,.panel,.table--rounded td,.Select.is-open > .Select-control,.Select.is-focused > .Select-control,.Select.is-focused:not(.is-open) > .Select-control,.Select.has-value.Select--single > .Select-control .Select-value a.Select-value-label:focus,.Select.has-value.is-pseudo-focused.Select--single > .Select-control .Select-value a.Select-value-label:focus,.Select-control .Select-input:focus,.daisy-tooltip--light .daisy-tooltip__content,.daisy-tooltip--light .daisy-tooltip__arrow,.daisy-button.daisy-button--secondary,.daisy-button.daisy-button--secondary:disabled,.daisy-button--danger.daisy-button--secondary,.daisy-button--danger.daisy-button--secondary:disabled,.daisy-button--facebook.daisy-button--secondary,.daisy-button--facebook.daisy-button--secondary:disabled,.daisy-modal__content,.text-field,.daisy-banner,.card__subheading,.Select-menu-outer,.Select.is-focused:not(.is-open) > .Select-control,.daisy-sub-header,.daisy-avatar,.daisy-separator__text,.daisy-textarea__footer-tab--active:hover,.top-three-hacker .avatar,.overlay-hacker .avatar {
-background: #151515 !important;
+background: #222 !important;
 }
 
 .content-wrapper,.blog-page-image,.superman-table__heading,.superman-table__column,.input-tag,.markdownable code,.typeahead-selection,.image-screenshot,.genius,.vertical-menu,.markdown-attachment-inline-reference img,.markdown-attachment-inline-reference video,.report-heading__toggle,.triggers-disabled-label,.integration__jira,.payout-method-wrapper,.settings-container .settings-column--has-background,.progress-bar__step,.panel {
@@ -138,15 +138,15 @@ text-shadow: 0 0.5px 0 #999 !important;
 }
 
 .year-in-review__list-item,.daisy-tooltip--light .daisy-tooltip__content,.daisy-tooltip--light .daisy-tooltip__arrow-shadow,.text-field,.daisy-banner,.card,.Select-menu-outer,.Select-control,.daisy-dropdown.is-open .Select-control,.daisy-avatar,.daisy-textarea,.link-tile {
-border: 1px solid #555 !important;
+border: 1px solid #444 !important;
 }
 
 .year-in-review__username,.icon__background--light-grey {
-background-color: #555 !important;
+background-color: #444 !important;
 }
 
 .year-in-review__username--green:hover,.year-in-review__username--green:link,.year-in-review__username--green:active,.year-in-review__username--green:visited,.daisy-link--white,.daisy-link--white:visited,.daisy-link--white:hover,.daisy-link--white:active,.team_mailru .type-selector__suggestion--checked,.team_icq .profile-header__link,.team_icq .profile-header__link:visited,.team_icq .profile-header__link:hover,.team_icq .profile-header__link:active,.team_sony_playstation_network .type-selector__suggestion--checked {
-color: #151515  !important;
+color: #222  !important;
 }
 
 .button {
@@ -174,27 +174,27 @@ box-shadow: inset 0 0 0 1px #333 !important;
 }
 
 .dropdown--disabled .dropdown-button:hover {
-background: -webkit-linear-gradient(#151515 0%, #151515 100%) !important;
+background: -webkit-linear-gradient(#222 0%, #222 100%) !important;
 }
 
 .dropdown--disabled .dropdown-button:hover {
-background: linear-gradient(#151515 0%, #151515 100%) !important;
+background: linear-gradient(#222 0%, #222 100%) !important;
 }
 
 .dropdown--disabled .dropdown-button:hover {
-filter: "progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr='    #151515FF', endColorstr='#151515FF')" !important;
+filter: "progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr='    #222FF', endColorstr='#222FF')" !important;
 }
 
 .dropdown-button:hover,.open .dropdown-button {
-background: -webkit-linear-gradient(#151515 0%, #444 100%) !important;
+background: -webkit-linear-gradient(#222 0%, #444 100%) !important;
 }
 
 .dropdown-button:hover,.open .dropdown-button {
-background: linear-gradient(#151515 0%, #444 100%) !important;
+background: linear-gradient(#222 0%, #444 100%) !important;
 }
 
 .dropdown-button:hover,.open .dropdown-button {
-filter: "progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr='    #151515FF', endColorstr='#FFEBEBEB')" !important;
+filter: "progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr='    #222FF', endColorstr='#FFEBEBEB')" !important;
 }
 
 .dropdown-button::after {
@@ -266,7 +266,7 @@ border-right-color: rgba(150, 150, 150, 0.8) !important;
 }
 
 .tooltip-password-advice::after {
-border-left-color: #151515 !important;
+border-left-color: #222 !important;
 }
 
 .tooltip-password-advice::before {
@@ -274,7 +274,7 @@ border-left-color: #444 !important;
 }
 
 .typeahead-dropdown::after,.invite-team-member-wrapper::after,.notifications-menu-wrapper::after,.settings-menu::after,.topbar--triage .sla-status-menu::after,.topbar .topbar__dropdown::after,.programs__search-dropdown::after {
-border-bottom-color: #151515 !important;
+border-bottom-color: #222 !important;
 }
 
 .typeahead-dropdown::before,.invite-team-member-wrapper::before,.notifications-menu-wrapper::before,.settings-menu::before,.topbar--triage .sla-status-menu::before,.topbar .topbar__dropdown::before,.programs__search-dropdown::before {
@@ -314,11 +314,11 @@ border-color: #330000 !important;
 }
 
 .timeline-indicator-dot,.wizard-step-indicator,.leaderboard-podium-rank {
-box-shadow: inset 0 0 0 2px #151515 !important;
+box-shadow: inset 0 0 0 2px #222 !important;
 }
 
 .hacktivity-item + .hacktivity-item,.daisy-table__row + .daisy-table__row,.daisy-list--separator li + li,.daisy-textarea__footer-message,.daisy-textarea__footer-tab {
-border-top: 1px solid #555 !important;
+border-top: 1px solid #444 !important;
 }
 
 .hacktivity-item--privileged .hacktivity-item__undisclosed-title {
@@ -394,7 +394,7 @@ fill: #555 !important;
 }
 
 .dashboard-pie-chart .c3 text {
-fill: #151515 !important;
+fill: #222 !important;
 }
 
 .qr-code td.black,.hacktheworld-2017-background {
@@ -462,31 +462,31 @@ color: #444 !important;
 }
 
 .icon__glyph--light-grey {
-color: #555 !important;
+color: #444 !important;
 }
 
 .text-field,.daisy-textarea {
-box-shadow: inset 0 1px 3px 0 #555 !important;
+box-shadow: inset 0 1px 3px 0 #444 !important;
 }
 
 .daisy-banner--grey {
-border-left-color: #555 !important;
+border-left-color: #444 !important;
 }
 
 .grid__row--has-separator > .grid__column + .grid__column,.daisy-list--horizontal.daisy-list--separator li + li {
-border-left: 1px solid #555 !important;
+border-left: 1px solid #444 !important;
 }
 
 .Select-option,.daisy-sub-header,.daisy-separator {
-border-bottom: 1px solid #555 !important;
+border-bottom: 1px solid #444 !important;
 }
 
 .daisy-tag--grey,.daisy-timeline__line,.daisy-alert--grey {
-background: #555 !important;
+background: #444 !important;
 }
 
 .daisy-textarea__footer-tab,ul.triage-dashboard-views li {
-border-right: 1px solid #555 !important;
+border-right: 1px solid #444 !important;
 }
 
 .highlight .cp,.highlight .cs,.highlight .gh,.highlight .bp {
